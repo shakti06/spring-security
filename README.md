@@ -2,8 +2,8 @@
 
 ## Spring security authentication and authorization using jpa and mysql
 
--use of userDetailzService
+-use of userDetailService
 
--use of GrantedAuthority for the authentication
+-use of GrantedAuthority for the authorization
 
--use of jpa
+-used for spring security login features
